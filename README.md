@@ -1,5 +1,4 @@
-<h2 align="center"> Hey guys, </h2> 
-  <h1 align="center">I'm Hemanth R  💚</h1>  
+<h1 align="center"> Hey guys,<br> I'm Hemanth R  💚</h1> 
 
 <br>
 
