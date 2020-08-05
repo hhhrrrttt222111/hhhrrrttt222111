@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center"> Hey guys, </h2> 
+  <h1 align="center">I'm Hemanth R  💚</h1>  
 
-<!--
-**hhhrrrttt222111/hhhrrrttt222111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+#### 🌱 I’m currently learning OpenCV/ML
+#### 💬 Ask me anything on Web Dev
+#### 📫 How to reach me: **hemanththanal@gmail.com**
+#### 👾 Check out my blog [Hackzism](https://hackzism.blogspot.com/)
+#### 💻 Visit my website [🌐](http://hhhrrrttt222111.me/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hhhrrrttt222111&show_icons=true" alt="hrt" /> </p>
