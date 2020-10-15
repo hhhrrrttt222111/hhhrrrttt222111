@@ -2,6 +2,11 @@
 
 <br>
 
+[![Twitter: hhhrrrttt222111](https://img.shields.io/twitter/follow/hhhrrrttt222111?style=social)](https://twitter.com/hhhrrrttt222111)  &nbsp;&nbsp;&nbsp;&nbsp;
+[![Linkedin: hhhrrrttt222111](https://img.shields.io/badge/-hhhrrrttt222111-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/hhhrrrttt222111/)](https://www.linkedin.com/in/hhhrrrttt222111/)
+
+<br>
+
 ### 🌱 I’m currently learning OpenCV/ML
 ### 💬 Ask me anything on Web Dev
 ### 📧 Reach me: **hemanththanal@gmail.com**
@@ -11,9 +16,9 @@
 <br>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hhhrrrttt222111&show_icons=true&theme=dark" alt="hrt" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hhhrrrttt222111&show_icons=true&theme=tokyonight" alt="hrt" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhrrrttt222111&show_icons=true&layout=compact&theme=dark"" alt="hrt" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhrrrttt222111&show_icons=true&layout=compact&theme=tokyonight"" alt="hrt" /> </p>
 
 ## Connect with me:
 
