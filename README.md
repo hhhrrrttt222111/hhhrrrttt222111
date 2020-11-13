@@ -23,7 +23,8 @@ export default () => ({
   ],
   technologies: {
     "Programming languages": [ "C", "C++", "Python", "Java", "Dart", "Ruby"],
-    "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","WordPress" ],
+    "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","ReactJS", "Material-UI" ],
+    "appdev": [ "Flutter" ],
     "databases": [ "MySQl", "MongoDB" ],
     "applications": ["Microsoft Office" ],
     "mathematicsAndStatistics": [ "NumPy", "Pandas", "SciPy" ],
@@ -32,7 +33,7 @@ export default () => ({
     "devOpsTools": [ "Git", "Kubernetes" ],
     "cloudOps": [ "AWS" ],
     "operatingSystems": [ "Ubuntu", "Kali Linux", "Windows" ],
-    "editors": [ "VSCode", "ViM", "Pycharm", "Jupyter Notebook", "Atom" ]
+    "editors": [ "VSCode", "ViM", "Pycharm", "Jupyter Notebook", "Atom", "Notepad++" ]
   },
    Skills: [
     "Leadership", "Team Building", "Decision Making",
