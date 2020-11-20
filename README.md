@@ -1,9 +1,10 @@
 <h1 align="center"> Hey guys,<br> I'm Hemanth R  💚</h1> 
 
 <br>
-
+<!---
 [![Twitter: hhhrrrttt222111](https://img.shields.io/twitter/follow/hhhrrrttt222111?style=social)](https://twitter.com/hhhrrrttt222111)  &nbsp;&nbsp;&nbsp;&nbsp;
 [![Linkedin: hhhrrrttt222111](https://img.shields.io/badge/-hhhrrrttt222111-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/hhhrrrttt222111/)](https://www.linkedin.com/in/hhhrrrttt222111/)
+-->
 
 <br>
 
