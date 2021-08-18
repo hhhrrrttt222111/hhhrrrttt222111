@@ -1,4 +1,4 @@
-<h1 align="center"> Hey guys,<br> I'm Hemanth R  💚</h1> 
+<h1 align="center"> Hey guys,<br> I'm Hemanth R  💚</h1>
 
 <br>
 <!---
@@ -23,26 +23,26 @@ export default () => ({
     "Cybersecurity"
   ],
   technologies: {
-    "Programming languages": [ "C", "C++", "Python", "Java", "Dart", "Ruby"],
-    "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","ReactJS", "NextJS", "Material-UI" ],
-    "appdev": [ "Flutter" ],
-    "databases": [ "MySQl", "MongoDB" ],
-    "applications": ["Microsoft Office" ],
-    "mathematicsAndStatistics": [ "NumPy", "Pandas", "SciPy" ],
-    "machineLearning": [ "scikit-learn", "TensorFlow", "Keras" ],
-    "datavisualization": [ "Matplotlib", "Seaborn" ],
-    "devOpsTools": [ "Git" ],
-    "cloudOps": [ "AWS" ],
-    "operatingSystems": [ "Ubuntu", "Kali Linux", "Windows" ],
-    "editors": [ "VSCode", "ViM", "Pycharm", "Jupyter Notebook", "Atom", "Notepad++" ]
+    "Programming languages": ["C", "C++", "Python", "Java", "Dart", "Ruby"],
+    "webdev": ["HTML", "CSS", "Bootstrap", "Javascript", "ReactJS", "NextJS", "Material-UI"],
+    "appdev": ["Flutter"],
+    "databases": ["MySQl", "MongoDB"],
+    "applications": ["Microsoft Office"],
+    "mathematicsAndStatistics": ["NumPy", "Pandas", "SciPy"],
+    "machineLearning": ["scikit-learn", "TensorFlow", "Keras"],
+    "datavisualization": ["Matplotlib", "Seaborn"],
+    "devOpsTools": ["Git"],
+    "cloudOps": ["AWS"],
+    "operatingSystems": ["Ubuntu", "Kali Linux", "Windows"],
+    "editors": ["VSCode", "ViM", "Pycharm", "Jupyter Notebook", "Atom", "Notepad++"]
   },
-   Skills: [
+  Skills: [
     "Leadership", "Team Building", "Decision Making",
-    "Problem Solving", "Time Management", "Quick Learner" 
+    "Problem Solving", "Time Management", "Quick Learner"
   ],
-   Interest: [
+  Interest: [
     "Technology", "Coding", "Reading",
-    "Football", "Music", "Cricket" 
+    "Football", "Music", "Cricket"
   ]
 });
 ```
@@ -63,7 +63,7 @@ export default () => ({
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hhhrrrttt222111&theme=onedark" alt="hrt" /> </p>
 
 <!---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhrrrttt222111&show_icons=true&layout=compact&theme=tokyonight"" alt="hrt" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhrrrttt222111&show_icons=true&layout=compact&theme=tokyonight" alt="hrt" /> </p>
 -->
 
 ## Connect with me:
